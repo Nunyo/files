@@ -2,7 +2,6 @@ time;nombre;apellido;team;team_value;personal_value
 2023-09-27 11:00:00 UTC;Alberto;González;M360;5;5
 2023-09-27 11:00:00 UTC;Ana;Fernández;M360;5;5
 2023-09-27 11:00:00 UTC;Bárbara;Castroverde;M360;5;5
-2023-09-27 11:00:00 UTC;Daniel;García;M360;5;5
 2023-09-27 11:00:00 UTC;Diego;Calzadilla;M360;5;5
 2023-09-27 11:00:00 UTC;Enrique;Pacheco;M360;5;5
 2023-09-27 11:00:00 UTC;Gabriel;Pite;M360;5;5
@@ -10,7 +9,6 @@ time;nombre;apellido;team;team_value;personal_value
 2023-09-27 11:00:00 UTC;Jonathan;Fernández;M360;5;5
 2023-09-27 11:00:00 UTC;Jorge;Fernández;M360;5;5
 2023-09-27 11:00:00 UTC;Jorge;García;M360;5;5
-2023-09-27 11:00:00 UTC;Jorge;Marques;M360;5;5
 2023-09-27 11:00:00 UTC;Jorge;de la Puente;M360;5;5
 2023-09-27 11:00:00 UTC;José Manuel;Llamas;M360;5;5
 2023-09-27 11:00:00 UTC;Nuño;López;M360;5;5
@@ -21,15 +19,15 @@ time;nombre;apellido;team;team_value;personal_value
 2023-10-27 11:00:00 UTC;Bárbara;Castroverde;M360;8;3
 2023-10-27 11:00:00 UTC;Daniel;García;M360;5;5
 2023-10-27 11:00:00 UTC;Diego;Calzadilla;M360;9;5
-2023-10-27 11:00:00 UTC;Enrique;Pacheco;M360;;
+2023-10-27 11:00:00 UTC;Enrique;Pacheco;M360;5;5
 2023-10-27 11:00:00 UTC;Gabriel;Pite;M360;9;2
-2023-10-27 11:00:00 UTC;Javier;Bello;M360;;
+2023-10-27 11:00:00 UTC;Javier;Bello;M360;5;5
 2023-10-27 11:00:00 UTC;Jonathan;Fernández;M360;9;9
 2023-10-27 11:00:00 UTC;Jorge;Fernández;M360;9;4
-2023-10-27 11:00:00 UTC;Jorge;García;M360;;
+2023-10-27 11:00:00 UTC;Jorge;García;M360;5;5
 2023-10-27 11:00:00 UTC;Jorge;Marques;M360;7;8
 2023-10-27 11:00:00 UTC;Jorge;de la Puente;M360;9;5
 2023-10-27 11:00:00 UTC;José Manuel;Llamas;M360;9;5
 2023-10-27 11:00:00 UTC;Nuño;López;M360;7;6
 2023-10-27 11:00:00 UTC;Roberto;Ciria;M360;8;5
-2023-10-27 11:00:00 UTC;Tiago;Campos;M360;;
+2023-10-27 11:00:00 UTC;Tiago;Campos;M360;5;5
