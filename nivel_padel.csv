@@ -598,8 +598,8 @@ Fecha,Nivel,Player,Partido,Resultado,Victoria,Derrota,Empate,Amistoso
 2025-10-01 00:00:00 UTC,2.29,Nuño,1,0,,,1,1
 2025-10-02 00:00:00 UTC,2.31,Nuño,1,2,1,,,
 2025-10-03 00:00:00 UTC,2.31,Nuño,,,,,,
-2025-10-04 00:00:00 UTC,,Nuño,,,,,,
-2025-10-05 00:00:00 UTC,,Nuño,,,,,,
+2025-10-04 00:00:00 UTC,2.30,Nuño,1,-2,,1,,
+2025-10-05 00:00:00 UTC,2.32,Nuño,1,2,1,,,
 2025-10-06 00:00:00 UTC,,Nuño,,,,,,
 2025-10-07 00:00:00 UTC,,Nuño,,,,,,
 2025-10-08 00:00:00 UTC,,Nuño,,,,,,
@@ -687,3 +687,4 @@ Fecha,Nivel,Player,Partido,Resultado,Victoria,Derrota,Empate,Amistoso
 2025-12-29 00:00:00 UTC,,Nuño,,,,,,
 2025-12-30 00:00:00 UTC,,Nuño,,,,,,
 2025-12-31 00:00:00 UTC,,Nuño,,,,,,
+
