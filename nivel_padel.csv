@@ -1,4 +1,4 @@
-Fecha,Nivel,Player,Partido,Resultado,Victoria,Derrota,Empate,Amistoso
+,Fecha,Nivel,Player,Partido,Resultado,Victoria,Derrota,Empate,Amistoso
 2024-02-16 00:00:00 UTC,1.7,Nuño,-1,,,,,
 2024-02-16 00:00:00 UTC,1.7,Nuño,1,,,,,
 2024-02-17 00:00:00 UTC,1.7,Nuño,,,,,,
@@ -734,6 +734,12 @@ Fecha,Nivel,Player,Partido,Resultado,Victoria,Derrota,Empate,Amistoso
 2026-02-13 00:00:00 UTC,2.42,Nuño,1,2,1,,,
 2026-02-14 00:00:00 UTC,2.45,Nuño,1,2,1,,,
 2026-02-15 00:00:00 UTC,2.4,Nuño,1,-2,,1,,
+2026-02-16 00:00:00 UTC,2.4,Nuño,,,,,,
+2026-02-17 00:00:00 UTC,2.4,Nuño,,,,,,
+2026-02-18 00:00:00 UTC,2.4,Nuño,,,,,,
+2026-02-19 00:00:00 UTC,2.43,Nuño,1,2,1,,,
+2026-02-20 00:00:00 UTC,2.43,Nuño,1-2,,1,,,
+2026-02-21 00:00:00 UTC,2.43,Nuño,,,,,,
 
 
 
